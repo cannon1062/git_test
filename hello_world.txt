@@ -9,3 +9,5 @@ I need scissors. 61!
 *** Work laptop using WSL ***
 
 *** Work laptop using VIrtual Fedora ***
+
+*** Desktop using Fedora 39 ***
